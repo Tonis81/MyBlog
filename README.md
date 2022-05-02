@@ -1,16 +1,13 @@
 # MyBlog
 
-
-
+````
 ```
-# Table of Contents
-1. [How to install R](#how-to-install-r)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+How to install R
+Introduction to linear regression
+	Example of multiple lienear regression with R using NHANES data
+How to use gWQS package
 ```
-
-
+````
 
 
 
