@@ -1,16 +1,5 @@
 # MyBlog
 
-````
-```
-How to install R
-Introduction to linear regression
-	Example of multiple lienear regression with R using NHANES data
-How to use gWQS package
-```
-````
-
-
-
 # How to install R
 
 [install R](https://rpubs.com/ToniSignes/862089) 
