@@ -20,4 +20,7 @@
 
 # How to use gWQS package
 
-https://cran.r-project.org/web/packages/gWQS/vignettes/gwqs-vignette.html
+Weighted Quantile Sum (WQS) regression is a statistical model for multivariate regression in high-dimensional datasets. The model constructs a weighted index estimating the mixed effect of all predictor variables on an outcome. 
+
+[WQSR](https://cran.r-project.org/web/packages/gWQS/vignettes/gwqs-vignette.html)
+
